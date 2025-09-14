@@ -5,7 +5,7 @@ This project presents an end-to-end **interactive analytics dashboard** built us
 
 ---
 
-This well detailed Sales Modeling Analytics Dashboard which I developed for a supermarket can be accessed live on streamlit [Here](https://salesmodelling.streamlit.app/)
+This well detailed Sales Modeling Analytics Dashboard which I developed for a supermarket can be accessed live on streamlit [Here](https://customer-segmentation-analysiss.streamlit.app/)
 
 
 ---
