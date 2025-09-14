@@ -7,23 +7,6 @@ This project presents an end-to-end **interactive analytics dashboard** built us
 
 This well detailed Sales Modeling Analytics Dashboard which I developed for a supermarket can be accessed live on streamlit [Here](https://salesmodelling.streamlit.app/)
 
----
-
-## 📬 Author
-
-**Gbenga Kajola**
-🎓 Certified Data Analyst | 👨‍💻 Certified Data Scientist | 🧠 AI/ML Engineer | 📱 Mobile App Developer 
-
-[LinkedIn](https://www.linkedin.com/in/kajolagbenga)
-
-[Portfolio](https://kajolagbenga.netlify.app)
-
-[Certified_Data_Scientist](https://www.datacamp.com/certificate/DSA0012312825030)
-
-[Certified_Data_Analyst](https://www.datacamp.com/certificate/DAA0018583322187)
-
-[Certified_SQL_Database_Programmer](https://www.datacamp.com/certificate/SQA0019722049554)
-
 
 ---
 
@@ -75,16 +58,6 @@ This well detailed Sales Modeling Analytics Dashboard which I developed for a su
 ### 5. 📌 Feature Importance
 - Identifies the top influential features for predicting customer type
 - Visualized with bar plots for intuitive interpretation
-
-### 6. 👨‍💻 About Developer
-- Name: **Kajola Gbenga**
-- Roles: Certified Data Analyst, Data Scientist, SQL Programmer, App Developer
-- Links:
-  - [LinkedIn](https://www.linkedin.com/in/kajolagbenga)
-  - [GitHub](https://github.com/prodigy234)
-  - [Portfolio](https://kajolagbenga.netlify.app/)
-
----
 
 ## 📥 Downloadable Report
 
